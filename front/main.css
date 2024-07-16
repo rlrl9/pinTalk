@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://webfontworld.github.io/pretendard/Pretendard.css');
+body {
+    height: 3000px;
+}
+
+.logo{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #2F80ED;
+    padding-left: 180px;
+}
+
+.landing-bg-1 {
+    height: 1050px;
+    background: #E9F2FA;
+}
+
+.margin50{
+    padding-top:50px;
+}
+
+.big-logo{
+    margin-top:317px;
+    margin-left:204px;
+    width:872px;
+    height:346px;
+}
+
+.flex-1{
+    display: flex;
+}
+
+.logo-text{
+    padding-top:397px;
+    padding-left:61px;
+    font-family: "Pretendard";
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 64.6px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #404040;
+}
+
+.button-start {
+    margin-top: 27px;
+    margin-left: 61px;
+    border: none;
+    background: #2F80ED;
+    padding: 12px 20px 12px 20px;
+    color: white;
+    width: Hug (175px)px;
+    height: Hug (53px)px;
+    border-radius: 30px;
+    opacity: 100; /* '0px' 대신 '0' */
+    gap: 6px;
+    font-family: Pretendard;
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 28.5px;
+    letter-spacing: -0.02em;
+    text-align: center;
+}
+
+.btn-login{
+
+}
+
+.btn-signin{
+    width: Hug (95px)px;
+    height: Hug (44px)px;
+    position: relative;
+    left: 1645px;
+    
+    padding: 10px 20px 10px 20px;
+    gap: 8px;
+    border-radius: 14px;
+    opacity: 100;
+}
